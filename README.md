@@ -1,6 +1,6 @@
 ### Hi there! 🍀🐇
-<p>I'm Chiho Lee, Android Developer using Kotlin.</br>
-I'm studying software enginnering at Korea Polytechnic University.</br></br></p>
+<p>I'm Chiho Lee, an Android-Kotlin developer.</br>
+I'm studying software engineering at Korea Polytechnic University.</br></br></p>
 
 ### Languages 📚
 <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
