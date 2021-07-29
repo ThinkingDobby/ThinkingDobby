@@ -12,7 +12,7 @@ I'm studying software enginnering at Korea Polytechnic University.</br></br></p>
 
 #### BOJ 📘
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thinkingdobby)](https://solved.ac/thinkingdobby)</br>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ThinkingDobby)](https://solved.ac/ThinkingDobby)</br>
 
 #### Codeforces 📙
-[![CodeForces Profile](https://cf.leed.at?id=thinkingdobby)](https://codeforces.com/profile/thinkingdobby)
+[![CodeForces Profile](https://cf.leed.at?id=ThinkingDobby)](https://codeforces.com/profile/ThinkingDobby)
