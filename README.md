@@ -4,7 +4,7 @@
 디자인과 자동차에 관심이 많습니다.</br></br></p>
 
 ### Languages 📚
-<a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-8A4AFD?style=flat-square&logo=Kotlin&logoColor=D415E2"/></a>
+<a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-8A4AFD?style=flat-square&logo=Kotlin&logoColor=F46515"/></a>
 <a href="https://python.org" target="_blank"><img src="https://img.shields.io/badge/Python-0277BD?style=flat-square&logo=Python&logoColor=FFC107"/></a>
 <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-03589B?style=flat-square&logo=Python&logoColor=2BB7F6"/></a>
 <!--
