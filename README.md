@@ -1,7 +1,7 @@
-### 안녕하세요!
-<p>한국공학대학교 소프트웨어전공 이치호입니다.</br></br>
+### 안녕하세요, 이치호입니다!
+</br>
 Kotlin을 이용해 Android 개발을 합니다.</br>
-UI/UX와 자동차에 관심이 많습니다.</br></br></p>
+UI/UX와 자동차에 관심이 많습니다.</br></br>
 
 ### Languages
 <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-8A4AFD?style=flat-square&logo=Kotlin&logoColor=F46515"/></a>
